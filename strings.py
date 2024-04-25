@@ -20,7 +20,7 @@ interpolated = f"John is {age} years of age"
 print(interpolated)
 
 # ! string methods
-print('String Methods')
+print('String Methods')  
 # # ! upper
 print('String upper')
 stringlower = 'hello how are you'
@@ -32,8 +32,9 @@ print('String lower')
 lower = "HELLO".lower()
 print(lower)
 
-# ! capitalize
+# ! capitalize 
 print('String capitalize')
 capitalize = "hello there".capitalize()
 print(capitalize)
 
+ 
